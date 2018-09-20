@@ -1,5 +1,6 @@
 *.png
 *.jpg
+.jpeg
 *.pdf
 *.lua
 *.docx
@@ -7,3 +8,10 @@
 *.xls
 *.xlsx
 *.vsd
+*.m
+*.mat
+*.py
+*.c
+*.cpp
+*.h
+*.mp4
